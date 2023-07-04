@@ -1,7 +1,8 @@
 # Website Development Project - README 
 ## website-dev-project
 A static website created as part of University of Edinburgh/ HyperionDev Software 
-Engineering Online Bootcamp.
+Engineering Online Bootcamp.  The site contains one page woith some basic information 
+about my favourite football team, Liverpool Football Club.
 
 
 ## Table of contents
