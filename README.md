@@ -18,8 +18,8 @@ and other files are linked by relative file paths so the project should work whe
 saved in any location.
 
 ## 2. Usage
-This is a static web page that will load from the ```index.html``` file in the docs
-folder.
+This is a static web page that will load if directly deployed onto GitHub. From the
+project repository view, select settings > GitHub Pages > visit site.
 
 ## 3. Credits
 Developed by Andrew Baker (GitHub: andrewjbaker) as part of the University of 
