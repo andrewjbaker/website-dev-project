@@ -21,6 +21,9 @@ saved in any location.
 This is a static web page that will load if directly deployed onto GitHub. From the
 project repository view, select settings > GitHub Pages > visit site.
 
+<img width="1440" alt="Liverpool FC website development project" src="https://github.com/andrewjbaker/website-dev-project/assets/111700184/fe014cd8-f436-4f6a-a11d-6eceb548c3a5">
+
+
 ## 3. Credits
 Developed by Andrew Baker (GitHub: andrewjbaker) as part of the University of 
 Edinburgh and HyperionDev Software Engineering Online Bootcamp (2023).
